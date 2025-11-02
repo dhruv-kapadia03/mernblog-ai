@@ -24,7 +24,6 @@ Additionally, the app includes an integrated **AI feature that auto-generates bl
 - ⚡ **Responsive UI** — Built with **React + Tailwind CSS** for a sleek and modern look.
 - 🌐 **RESTful API** — Node.js and Express backend with MongoDB for persistent data storage.
 - 🧩 **Context API** — Smooth state management across components.
-- 🪶 **Deployed on Vercel** — Both client and server configured with `vercel.json`.
 
 ---
 
@@ -70,8 +69,7 @@ client/
 ├── readme.md
 ├── package-lock.json
 ├── package.json
-├── vite.config.js
-└── vercel.json
+└── vite.config.js
 ```
 
 ### **Server**
@@ -90,8 +88,7 @@ server/
 ├── .env
 ├── .gitignore
 ├── package.json
-├── package-lock.json
-└── vercel.json
+└── package-lock.json
 ```
 
 ---
